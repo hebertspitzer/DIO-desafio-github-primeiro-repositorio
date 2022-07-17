@@ -1,0 +1,12 @@
+Iniciar o git
+iniciar o vercionamento
+criar um commit
+
+git init
+git add
+git commit -m "mensagem-do-commit"
+git status
+git push origin master
+git pull origin master
+
+ls -a    mostra as pastas ocultas
